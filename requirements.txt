@@ -1,0 +1,10 @@
+scipy
+numpy
+torch
+transformers
+pytz
+protobuf==3.20.*
+sentencepiece
+tweepy
+langdetect
+requests
